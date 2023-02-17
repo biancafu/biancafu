@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi I'm Bianca 👋👩🏻‍💻
+
+I'm a Full-Stack Web Developer with a background in Electrical Engineering. Experienced in front-end and back-end development, database and embedded systems. 
+I am a passionate learner who has a strong desire to grow and expand knowledge for software development.  <br>
+🍏Some technologies I have worked with in projects includes: ReactJs, NodeJs, ExpressJs, Websockets <br>
+🍊Langaues I have expeirence, but haven't built a project with includes: Python, Java, C/C++ <br>
+🍋I'm currently learning: 3js, AWS <br>
+
+📫 Feel free to reach/connect with me: https://www.linkedin.com/in/biancafu/
+
 
 <!--
 **biancafu/biancafu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
