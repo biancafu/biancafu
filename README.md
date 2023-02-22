@@ -4,7 +4,7 @@ I'm a Full-Stack Web Developer with a background in Electrical Engineering. Expe
 I am a passionate learner who has a strong desire to grow and expand knowledge for software development.  <br>
 🍏Some technologies I have worked with in projects includes: ReactJs, NodeJs, ExpressJs, Websockets <br>
 🍊Langaues I have expeirence, but haven't built a project with includes: Python, Java, C/C++ <br>
-🍋I'm currently learning: 3js, AWS <br>
+🍋I'm currently learning: 3js <br>
 
 📫 Feel free to reach/connect with me: https://www.linkedin.com/in/biancafu/
 
