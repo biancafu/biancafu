@@ -1,4 +1,4 @@
-### Hi I'm Bianca 👋👩🏻
+### Hi I'm Bianca 👩🏻👋🏻
 
 I'm a Full-Stack Web Developer with a background in Electrical Engineering. Experienced in front-end and back-end development, database and embedded systems. 
 I am a passionate learner who has a strong desire to grow and expand knowledge for software development.  <br>
