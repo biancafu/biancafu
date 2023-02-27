@@ -10,7 +10,7 @@ I am a passionate learner who has a strong desire to grow and expand knowledge f
 📫 Feel free to reach/connect with me: https://www.linkedin.com/in/biancafu/
 
 [![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=biancafu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancafu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancafu&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **biancafu/biancafu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
