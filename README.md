@@ -20,7 +20,7 @@ I am a passionate learner who has a strong desire to grow and expand knowledge f
 - 🍊Langaues I have expeirence, but haven't built a project with includes: Python, Java, C/C++ <br>
 - 🍋I'm currently learning: python <br>
 - 🍉Current projects: Pokechat, musicApp <br>
-- 📫 Feel free to reach/connect with me: https://www.linkedin.com/in/biancafu/
+- 📫 Feel free to reach/connect with me on linkedin :)
 
 
 
