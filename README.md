@@ -19,7 +19,7 @@ I am a passionate learner who has a strong desire to grow and expand knowledge f
 - 🍏Some technologies I have worked with in projects includes: ReactJs, NodeJs, ExpressJs, Websockets <br>
 - 🍊Langaues I have expeirence, but haven't built a project with includes: Python, Java, C/C++ <br>
 - 🍋I'm currently learning: python <br>
-- 🍉Current projects: musicApp <br>
+- 🍉Current projects: pygame, musicApp <br>
 - 📫 Feel free to reach/connect with me on linkedin :)
 
 
