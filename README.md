@@ -17,7 +17,7 @@ I have experience in full stack development, database and some embedded systems.
 I am a passionate learner who has a strong desire to grow and expand knowledge for software development.  <br>
 
 - 🍏Some technologies I have worked with in projects includes: ReactJs, NodeJs, ExpressJs, Websockets <br>
-- 🍊Langaues I have expeirence, but haven't built a project with includes: Java, C/C++ <br>
+- 🍊Languages I have expeirence, but haven't built a project with includes: Java, C/C++ <br>
 - 🍋I'm currently learning: python <br>
 - 🍉Current projects: pygame, musicApp <br>
 - 📫 Feel free to reach/connect with me on linkedin :)
