@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 <!--   <img src="https://komarev.com/ghpvc/?username=biancafu&style=flat-square&color=blue" alt="profile_count"/> -->
-  ![](https://komarev.com/ghpvc/?username=biancafu)
 </div>
 
 
