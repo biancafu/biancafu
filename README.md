@@ -19,10 +19,10 @@ I'm a Full-Stack Web Developer from Canada with a background in Electrical Engin
 I have experience in full stack development, database and some embedded systems. 
 I am a passionate learner who has a strong desire to grow and expand knowledge for software development.  <br>
 
-- 🍏Some technologies I have worked with in projects includes: ReactJs, NodeJs, ExpressJs, Websockets <br>
+- 🍏Some technologies I have worked with in projects includes: ReactJs, NodeJs, ExpressJs, Websockets, Flask <br>
 - 🍊Languages I have expeirence, but haven't built a project with includes: Java, C/C++ <br>
-- 🍋I'm currently learning: python, three.js <br>
-- 🍉Current projects: DSA, musicApp <br>
+- 🍋I'm currently learning: AWS, three.js <br>
+- 🍉Current projects: AWS project <br>
 - 📫 Feel free to reach/connect with me on linkedin :)
 
 
