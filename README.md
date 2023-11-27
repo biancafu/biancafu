@@ -22,7 +22,7 @@ I am a passionate learner who has a strong desire to grow and expand knowledge f
 - 🍏Some technologies I have worked with in projects includes: ReactJs, NodeJs, ExpressJs, Websockets, Flask <br>
 - 🍊Languages I have expeirence, but haven't built a project with includes: Java, C/C++ <br>
 - 👯 I’m looking to collaborate on AI, AR, AWS projects
-- 🍋I'm currently learning: AWS, three.js <br>
+- 🍋I'm currently learning: AWS, three.js, unity <br>
 - 🍉Current projects: AWS project <br>
 - 📫 Feel free to reach/connect with me on linkedin :)
   
