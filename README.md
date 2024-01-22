@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/biancafu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://biancafu.vercel.app/"> 
+  <a href="http://biancafu.com/"> 
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 <!--   <img src="https://komarev.com/ghpvc/?username=biancafu&style=flat-square&color=blue" alt="profile_count"/> -->
