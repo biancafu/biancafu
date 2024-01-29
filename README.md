@@ -24,7 +24,7 @@ I am a passionate learner who has a strong desire to grow and expand knowledge f
 - 👯 I’m looking to collaborate on AWS projects
 - 🍋I'm currently learning: AWS, three.js, unity <br>
 - 🍉Current projects: AWS project <br>
-- 📫 Feel free to reach/connect with me on linkedin :)
+- 📫 Feel free to reach/connect with me on linkedin :) !
   
 
 
